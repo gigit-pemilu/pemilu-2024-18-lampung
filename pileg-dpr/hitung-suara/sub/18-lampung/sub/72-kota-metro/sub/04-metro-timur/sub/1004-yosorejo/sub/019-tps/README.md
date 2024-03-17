@@ -11,7 +11,7 @@ https://sirekap-obj-formc.kpu.go.id/4cdc/pemilu/pdpr/18/72/04/10/04/187204100401
 
 | Key        | Value               |
 | ---------- | ------------------- |
-| Time Stamp | 2024-02-17 13:05:41 |
+| Time Stamp | 2024-03-16 23:03:47 |
 | Kode Dapil | 1801                |
 
 
