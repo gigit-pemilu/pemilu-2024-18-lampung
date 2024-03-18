@@ -40,12 +40,14 @@ https://sirekap-obj-formc.kpu.go.id/e68e/pemilu/pdpr/18/02/19/20/03/180219200300
 
 https://sirekap-obj-formc.kpu.go.id/e68e/pemilu/pdpr/18/02/19/20/03/1802192003001-20240317-160459--0fe8a317-e459-419c-96ca-3cdec681b658.jpg
 
+https://sirekap-obj-formc.kpu.go.id/e68e/pemilu/pdpr/18/02/19/20/03/1802192003001-20240317-200654--e2724181-a348-4afe-b56a-68978f561a7f.jpg
+
 
 ## Metadata
 
 | Key        | Value               |
 | ---------- | ------------------- |
-| Time Stamp | 2024-03-17 16:33:47 |
+| Time Stamp | 2024-03-17 20:33:47 |
 | Kode Dapil | 1802                |
 
 
