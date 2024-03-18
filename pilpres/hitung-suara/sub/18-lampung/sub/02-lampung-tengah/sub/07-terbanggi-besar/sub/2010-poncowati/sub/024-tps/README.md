@@ -33,7 +33,7 @@ pie showData
 
 ## Foto C Plano
 
-https://sirekap-obj-formc.kpu.go.id/8fa8/pemilu/ppwp/18/02/07/20/10/1802072010024-20240215-030836--4ddea30c-1ca9-4838-9adf-0b4985741252.jpg
+https://sirekap-obj-formc.kpu.go.id/8fa8/pemilu/ppwp/18/02/07/20/10/1802072010024-20240317-215404--db31cfc3-8759-4f81-bbd5-3de24f9012db.jpg
 
 https://sirekap-obj-formc.kpu.go.id/8fa8/pemilu/ppwp/18/02/07/20/10/1802072010024-20240215-031143--56f7386b-3773-4cbd-a01b-f211cc08b838.jpg
 
@@ -44,14 +44,14 @@ https://sirekap-obj-formc.kpu.go.id/8fa8/pemilu/ppwp/18/02/07/20/10/180207201002
 
 | Key        | Value               |
 | ---------- | ------------------- |
-| Time Stamp | 2024-02-19 16:00:00 |
+| Time Stamp | 2024-03-17 22:00:00 |
 
 
 ## DATA PEMILIH TETAP
 
-Jumlah pemilih dalam DPT: **216**.
- * L: **106**.
- * P: **110**.
+Jumlah pemilih dalam DPT: **271**.
+ * L: **137**.
+ * P: **134**.
 
 ## DATA PENGGUNA HAK PILIH
 
