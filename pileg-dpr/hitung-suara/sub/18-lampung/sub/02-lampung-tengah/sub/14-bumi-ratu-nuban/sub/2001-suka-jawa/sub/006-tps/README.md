@@ -8,9 +8,9 @@ https://sirekap-obj-formc.kpu.go.id/6146/pemilu/pdpr/18/02/14/20/01/180214200100
 
 https://sirekap-obj-formc.kpu.go.id/6146/pemilu/pdpr/18/02/14/20/01/1802142001006-20240318-134203--085d0235-7d76-4be6-9d24-cf20be8251b6.jpg
 
-https://sirekap-obj-formc.kpu.go.id/6146/pemilu/pdpr/18/02/14/20/01/1802142001006-20240318-134316--bd104090-1ec8-4e14-9cb4-4acd473ec18a.jpg
+https://sirekap-obj-formc.kpu.go.id/6146/pemilu/pdpr/18/02/14/20/01/1802142001006-20240319-102013--645ca683-60e5-4985-b0d6-41122a5d320c.jpg
 
-https://sirekap-obj-formc.kpu.go.id/6146/pemilu/pdpr/18/02/14/20/01/1802142001006-20240318-134925--5a4a27bf-5ddc-46d2-8c8f-c47f66d58844.jpg
+https://sirekap-obj-formc.kpu.go.id/6146/pemilu/pdpr/18/02/14/20/01/1802142001006-20240319-102218--46555559-69e6-4b5e-b59a-6afd5e8dc2d1.jpg
 
 https://sirekap-obj-formc.kpu.go.id/6146/pemilu/pdpr/18/02/14/20/01/1802142001006-20240318-135048--1d62614a-eb5f-43b9-bd83-ba69eec64250.jpg
 
@@ -47,7 +47,7 @@ https://sirekap-obj-formc.kpu.go.id/6146/pemilu/pdpr/18/02/14/20/01/180214200100
 
 | Key        | Value               |
 | ---------- | ------------------- |
-| Time Stamp | 2024-03-18 14:33:48 |
+| Time Stamp | 2024-03-19 10:33:48 |
 | Kode Dapil | 1802                |
 
 
